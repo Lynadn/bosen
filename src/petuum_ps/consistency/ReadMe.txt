@@ -4,7 +4,7 @@ ReadMe.txt
 :Email: 2012wxs@gmail.com
 :Date: 2018-03-05 19:09
 
-in ClientTable.*:
+called by petuum_common/ClientTable.*:
 consistency:
 SSPPushAppendOnlyConsistencyController call SSPPushConsistencyController
 SSPPushConsistencyController call SSPConsistencyController
