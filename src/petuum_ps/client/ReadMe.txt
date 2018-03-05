@@ -7,3 +7,6 @@ ReadMe.txt
 app call client/client_table.*
 client_table.* call TabelGroup
 TabelGroup call thread/bg_worker*
+
+
+thread_table.* is cache table in worker 
